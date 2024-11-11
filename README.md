@@ -6,7 +6,7 @@ https://www-genesis.destatis.de/datenbank/beta/announcement
 Beispielcode Python/Pandas  
 [ffcsv2024erklaert.ipynb](ffcsv2024erklaert.ipynb)
 
-In Kombination mit einem Tabellenabruf per API, siehe
+In Kombination mit einem Tabellenabruf per API, siehe  
 https://github.com/wahlatlas/api/blob/main/stromhandel-genesis.ipynb
   
 Beispielcode R  
